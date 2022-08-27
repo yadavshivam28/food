@@ -145,6 +145,7 @@ opacity: 0.4;
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 .client-item img{
     margin: 30px;
